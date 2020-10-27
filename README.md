@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# i5a
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is super spagetti rn I don't care cause I wrote this in like 20min and it works.
 
 ## Available Scripts
 
